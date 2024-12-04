@@ -1,0 +1,16 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ivan Stetsenko",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^5.7.2"
+  }
+}
