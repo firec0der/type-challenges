@@ -6,8 +6,7 @@
   "author": "Ivan Stetsenko",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc --noEmit"
   },
   "dependencies": {
     "@type-challenges/utils": "^0.1.1",
